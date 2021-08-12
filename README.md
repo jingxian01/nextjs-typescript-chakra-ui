@@ -1,4 +1,4 @@
-# nextjs-typescript-chakra-ui
+# nextjs-typescript-leaflet-chakra-ui
 
 simple example using leaftlet (react-leaflet) with next.js
 
